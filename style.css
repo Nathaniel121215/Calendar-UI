@@ -1,0 +1,99 @@
+body {
+    font-family: 'lato', sans-serif;
+  }
+h1
+{
+color: white;
+font-weight: 100;
+padding-left: 20px;
+padding-top: 10px;
+}
+p{
+color: rgb(105, 193, 245);
+font-weight: 100;
+padding-left: 20px;
+margin-top: -10px;
+
+}
+.Time-container
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150;
+
+    height: 120px;
+    width: 512px;
+    border: 1px solid black;
+   border-collapse: collapse; 
+   background: rgba( 0, 0, 0, 0.65 );
+   box-shadow: 0 8px 150px 0 rgba( 31, 38, 135, 0.37 );
+   backdrop-filter: blur( 14px );
+   -webkit-backdrop-filter: blur( 14px );
+  border: 1px solid rgb(109, 109, 109);
+   border-bottom: 1px solid rgb(255, 255, 255);
+}
+.Upper-nav
+{
+    font-size: 20px;
+    color:white;
+    padding-left: 20px;
+    padding-top: 20px;
+
+}
+
+
+.Calendar-container
+{
+    margin-left: auto;
+    margin-right: auto;
+ 
+    
+    height: 520px;
+    width: 512px;
+    border: 1px solid black;
+   border-collapse: collapse; 
+   background: rgba( 0, 0, 0, 0.65 );
+   box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+   backdrop-filter: blur( 14px );
+   -webkit-backdrop-filter: blur( 14px );
+
+   border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+table
+{ 
+    height: 450px;
+    width: 432px;
+   color: rgb(255, 255, 255);
+   margin-top: 15px;
+   font-size: 15px;
+   
+}
+
+th
+{
+
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+td
+{
+
+
+    padding-left: 25px;
+    padding-right: 25px;
+    
+}
+#inactive 
+{
+    color: rgb(156, 156, 156);
+}
+
+
+
+.last
+{
+  color: green;
+
+
+}
