@@ -1,18 +1,36 @@
 body {
-    font-family: 'lato', sans-serif;
+    font-family: 'Calibri', Calibri;
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%,
+ rgba(136,100,255,1) 48%, rgba(108,59,115,1) 100%);
   }
 h1
 {
+   
 color: white;
 font-weight: 100;
 padding-left: 25px;
-padding-top: 10px;
+padding-top: 19px;
+margin-top: 0px;
+font-size: 40px;
+}
+
+h3
+{
+
+color: white;
+font-weight: 100;
+padding-left: 160px;
+margin-top: -60px;
+font-size: 24px;
+
 }
 p{
-color: rgb(105, 193, 245);
+  
+color: rgb(132, 206, 248);
 font-weight: 100;
 padding-left: 25px;
-margin-top: -10px;
+margin-top: -18px;
 
 }
 .Time-container
